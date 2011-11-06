@@ -52,7 +52,8 @@ set laststatus=2                  " Show the status line all the time
 set statusline=[%n]\ %<%.99f\ %h%w%m%r%y\ %{exists('*CapsLockStatusline')?CapsLockStatusline():''}%=%-16(\ %l,%c-%v\ %)%P
 
 " Or use vividchalk
-colorscheme emacs
+colorscheme railscasts
+set t_Co=256
 
 " Tab mappings.
 map <leader>tt :tabnew<cr>
