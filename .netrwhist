@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/adam/Projects/credits/.git'
 let g:netrw_dirhist_2='/home/adam/Volumes/derby'
 let g:netrw_dirhist_3='/home/adam/Volumes/derby/app'
 let g:netrw_dirhist_4='/home/adam/Volumes/derby/app/assets'
 let g:netrw_dirhist_5='/home/adam/Volumes/derby/app/assets/stylesheets'
 let g:netrw_dirhist_6='/home/adam/Volumes/derby/app/models'
+let g:netrw_dirhist_7='/home/adam/Volumes/derby'
+let g:netrw_dirhist_8='/home/adam/Volumes/derby/config'
